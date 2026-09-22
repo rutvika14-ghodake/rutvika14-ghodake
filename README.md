@@ -52,11 +52,11 @@ I'm currently expanding into **Deep Learning, NLP, and Generative AI** — from 
 | 📚 Libraries & Frameworks | Pandas, NumPy, Scikit-learn, XGBoost, TensorFlow, PyTorch, Matplotlib, Seaborn, NLTK, spaCy, OpenCV |
 | 🤖 Machine Learning | Regression, Classification, Clustering, Feature Engineering, Model Evaluation, Hyperparameter Tuning, SMOTE |
 | 🧠 Deep Learning | ANN, CNN, RNN, LSTM, GRU, Encoder-Decoder, Attention Mechanism |
-| 💬 NLP | Text Preprocessing, Tokenization, Word Embeddings, NER, Sentiment Analysis |
+| 💬 NLP | Text Preprocessing, Tokenization, Word Embeddings, Sentiment Analysis |
 | ✨ Generative AI | LLMs, Prompt Engineering, RAG, Hugging Face Transformers, LangChain |
 | 👁️ Computer Vision | Image Classification, Image Annotation, Object Detection, YOLO, OpenCV, Image Segmentation |
 | 📊 Data Visualization & BI | Power BI, DAX, Power BI Service, Tableau, Excel |
-| 🗄️ Databases & Tools | MySQL, PostgreSQL, FastAPI, Docker, Git, GitHub, Jupyter Notebook, VS Code, CI/CD, Render, AWS |
+| 🗄️ Databases & Tools | MySQL, Git, GitHub, Jupyter Notebook, VS Code |
 
 ---
 
