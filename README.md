@@ -41,7 +41,7 @@ I'm currently expanding into **Deep Learning, NLP, and Generative AI** — from 
 ## 🧰 Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,PowerBI,Excel,git,github,vscode,Tenselow," />
+  <img src="https://skillicons.dev/icons?i=python,mysql,powerbi,pandas,sklearn,tensorflow,streamlit,git,github,vscode" />
 </p>
 
 ### 🔧 Tools & Technologies
