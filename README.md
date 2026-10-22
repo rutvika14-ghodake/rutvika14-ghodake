@@ -2,6 +2,7 @@
 &#x20; \<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rutvika%20Ghodake&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Aspiring%20Data%20Scientist%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning%20%26%20NLP&descAlignY=62&descSize=16&descColor=a5b4fc](https://capsule-render.vercel.app/api?type=waving\&color=0:0f0c29,50:302b63,100:24243e\&height=200\&section=header\&text=Rutvika%20Ghodake\&fontSize=50\&fontColor=ffffff\&animation=twinkling\&fontAlignY=40\&desc=Aspiring%20Data%20Scientist%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning%20%26%20NLP\&descAlignY=62\&descSize=16\&descColor=a5b4fc)"/>
 \</p>
 
+
 \<h1 align="center">👋 Hi, I'm Rutvika Ghodake\</h1>
 
 \<p align="center">
